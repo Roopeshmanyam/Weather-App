@@ -26,7 +26,7 @@ Follow these steps to run the Weather App locally on your machine:
 
 1. **Clone the Repository**:  
    ```bash  
-   git clone https://github.com/yourusername/weather-app.git  
+   git clone https://github.com/Roopeshmanyam/weather-app.git  
    ```  
 
 2. **Navigate to the Project Folder**:  
